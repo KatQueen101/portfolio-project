@@ -23,5 +23,6 @@ p {
 .homepage h2 {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
+  line-height: 2;
   font-size: 24px;
 }
