@@ -31,4 +31,7 @@ p {
 .btn-branding {
   background: #6c63ff;
   border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
 }
