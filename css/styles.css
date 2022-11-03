@@ -12,3 +12,8 @@ p {
   background: #f9f7fe;
   text-align: center;
 }
+
+.homepage p {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+}
