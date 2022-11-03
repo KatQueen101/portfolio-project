@@ -21,5 +21,6 @@ p {
 
 .homepage h2 {
   font-family: "Poppins", sans-serif;
-  font-size: normal;
+  font-weight: normal;
+  font-size: 24px;
 }
