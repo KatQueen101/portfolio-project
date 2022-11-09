@@ -105,6 +105,15 @@ p {
   padding: 120px 60px;
 }
 
+.logo {
+  max-height: 40px;
+}
+
+.nav li {
+  display: inline;
+  list-style: none;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
