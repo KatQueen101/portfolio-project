@@ -36,6 +36,15 @@ p {
   line-height: 30px;
 }
 
+.webpage-links {
+  text-decoration: none;
+  color: black;
+}
+
+.webpage-links:hover {
+  color: #ff9776;
+}
+
 .homepage {
   background: var(--secondary-color);
   text-align: center;
